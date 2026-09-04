@@ -14,5 +14,5 @@ Sou estudante de **Sistemas de Informação** com foco em suporte técnico, rede
 - **Suporte e Ferramentas:** Sistemas Operacionais, Suporte ao Usuário, Troubleshooting, Microsoft Office (Excel, Word, PowerPoint).
 
 ## 📫 Como me encontrar
-- [LinkedIn]([LINK_DO_SEU_LINKEDIN](https://www.linkedin.com/in/gabriela-gonzaga-ferreira/))
+- [LinkedIn]((https://www.linkedin.com/in/gabriela-gonzaga-ferreira/))
 - [E-mail](mailto:ferreiragonzagagabriela@gmail.com)
