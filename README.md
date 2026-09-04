@@ -29,6 +29,6 @@ Atualmente, estou desenvolvendo meus conhecimentos por meio da graduação, curs
 
 ## 📫 Contato
 
-💼 **LinkedIn:** [Meu LinkedIn]([SEU_LINKEDIN](https://www.linkedin.com/in/gabriela-gonzaga-ferreira/))
+💼 **LinkedIn:** www.linkedin.com/in/gabriela-gonzaga-ferreira/
 
 📧 **E-mail:** ferreiragonzagagabriela@gmail.com
