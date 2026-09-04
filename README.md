@@ -1,10 +1,5 @@
 # Olá, me chamo Gabriela 👋
 
-🎓 Graduanda em **Sistemas de Informação**  
-💻 Buscando oportunidade de **Estágio em Suporte de TI**  
-
----
-
 ## 👩‍💻 Sobre mim
 
 Sou estudante de Sistemas de Informação e estou construindo minha carreira na área de Tecnologia da Informação, com foco em **Suporte Técnico, Help Desk e Infraestrutura**.
