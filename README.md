@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, me chamo Gabriela 👋
 
-<!--
-**GabiGFerreira/GabiGFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Sistemas de Informação** com foco em suporte técnico, redes e cibersegurança
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim
+- 🎓 Graduando em Sistemas de Informação
+- 💻 Áreas de interesse: Help Desk, Suporte Técnico, Redes de Computadores e Cibersegurança
+- 🗣️ Idiomas: Inglês Avançado
+- 🌱 Atualmente explorando fluxos de integração entre sistemas de chamados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Habilidades Técnicas
+- **Linguagens e Versionamento:** Python, Git, GitHub.
+- **Redes e Infraestrutura:** Protocolos TCP/IP, Classes IPv4/IPv6, Configuração de Servidores DHCP/DNS.
+- **Suporte e Ferramentas:** Sistemas Operacionais, Suporte ao Usuário, Troubleshooting, Microsoft Office (Excel, Word, PowerPoint).
+
+## 📫 Como me encontrar
+- [LinkedIn]([LINK_DO_SEU_LINKEDIN](https://www.linkedin.com/in/gabriela-gonzaga-ferreira/))
+- [E-mail](mailto:ferreiragonzagagabriela@gmail.com)
