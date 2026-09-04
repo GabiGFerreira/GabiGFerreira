@@ -2,7 +2,6 @@
 
 🎓 Graduanda em **Sistemas de Informação**  
 💻 Buscando oportunidade de **Estágio em Suporte de TI**  
-🌐 Interesse em **Suporte Técnico, Redes, Infraestrutura e Segurança da Informação**
 
 ---
 
